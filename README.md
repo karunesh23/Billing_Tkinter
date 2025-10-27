@@ -4,6 +4,29 @@ A simple, attractive, and efficient **Billing System GUI Application** developed
 It is designed to automate the manual bill calculation process for small shops and retail stores.
 
 ---
+## 📚 Table of Contents
+
+- 📌 Project Overview
+- 🛠️ Features
+- 🛠️ Prerequisites
+- 📁 Project Structure
+- 🧾 How Billing Works
+- 📸 Screenshots
+- 👨‍💻 Contact me
+- 🚀 Future Enhancements
+- 📄 License
+
+## ✨ Features
+
+✅ Elegant & Easy-to-Use Interface
+✅ Fast Billing with Item-wise Quantity Input
+✅ Auto Calculation of Subtotal, GST (18%), and Grand Total
+✅ Neat Bill Format with Product, Price, Quantity & Total
+✅ One-Click Clear/Reset Functionality
+✅ Smart Input Validation (Name, Mobile No. & Quantity)
+✅ Customizable Item List & Prices in Code
+✅ Organized & Beginner-Friendly Python Code Structure
+
 ## 🛠️ Prerequisites (System Requirements)
 
 Before running this project, make sure the following are installed:
@@ -19,7 +42,7 @@ Before running this project, make sure the following are installed:
 ```bash
 python --version
 
-📌 Project Highlights
+## 📌 Project Highlights
 
 ✅ Graphical User Interface using Tkinter
 ✅ Customer name and mobile number validation
@@ -29,22 +52,24 @@ python --version
 ✅ Clear button to reset all inputs and bill area
 ✅ Well-structured and beginner-friendly Python code
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Technology	Description
 Python	Core programming language
 Tkinter	GUI development
 Random	Used for random bill background aesthetics
 
+## 👨‍💻Contact Me
 
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-👨‍💻 **Developer Information**
+- **Email:** [karuneshbansal84@gmail.com](karuneshbansal84@gmail.com)
+- **Phone:** +91 8295169318
+- **LinkedIn:** [linkedin.com/in/karunesh-bansal](https://www.linkedin.com/in/karunesh-bansal-780828380)
 
-- **Developed By:** Karunesh Bansal  
-- 📧 **Email:** karuneshbansal53@gmail.com  
-- 🔗 **LinkedIn:** [Karunesh Bansal](https://linkedin.com/in/karunesh-bansal-780828380)
+I look forward to hearing from you!
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 🔹 Add functionality to save or download the bill (PDF/Text)
 🔹 Add print option directly from system
@@ -52,6 +77,5 @@ Random	Used for random bill background aesthetics
 🔹 Add database integration (SQLite/MySQL) to store customer bills
 🔹 Add login system for admin/cashier
 
-📜 License
-
+## 📜 License
 This project is free to use for educational and personal purposes.
