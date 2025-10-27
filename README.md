@@ -30,42 +30,19 @@ python --version
 ✅ Well-structured and beginner-friendly Python code
 
 🛠️ Technologies Used
+
 Technology	Description
 Python	Core programming language
 Tkinter	GUI development
 Random	Used for random bill background aesthetics
 
-🖥️ Application Workflow
 
-1️⃣ Customer Details:
-Enter Customer Name
-Enter a valid 10-digit Mobile Number
 
-2️⃣ Item Selection:
-Item	Price (₹)
-Namkeen	50
-Soft Drink	40
-Chocolates20
-Biscuits	30
-Chips	25
-Juice	35
+👨‍💻 **Developer Information**
 
-Enter quantity for required items.
-
-3️⃣ Bill Generation:
-
-✔ Displays each selected item, price, quantity, and total
-✔ Calculates:
-
-Subtotal (before tax)
-GST @18%
-Grand Total
-
-👤 Developer Information
-
-👨‍💻 Developed By: Karunesh Bansal
-📧 Email: karuneshbansal53@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/karunesh-bansal-780828380
+- **Developed By:** Karunesh Bansal  
+- 📧 **Email:** karuneshbansal53@gmail.com  
+- 🔗 **LinkedIn:** [Karunesh Bansal](https://linkedin.com/in/karunesh-bansal-780828380)
 
 🚀 Future Enhancements
 
