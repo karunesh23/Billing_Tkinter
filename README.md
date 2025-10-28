@@ -16,6 +16,13 @@ It is designed to automate the manual bill calculation process for small shops a
 - 🚀 Future Enhancements
 - 📄 License
 
+
+## 📸 Screenshots
+
+![Billing Screen](screenshots/bill.png)
+*Main Billing Interface*
+
+
 ## ✨ Features
 
 ✅ Elegant & Easy-to-Use Interface
