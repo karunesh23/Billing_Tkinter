@@ -41,6 +41,7 @@ Before running this project, make sure the following are installed:
 ✅ To verify Python is installed, run in terminal or command prompt:
 ```bash
 python --version
+```
 
 ## 📌 Project Highlights
 
@@ -59,13 +60,13 @@ Python	Core programming language
 Tkinter	GUI development
 Random	Used for random bill background aesthetics
 
-## 👨‍💻Contact Me
+## 👨‍💻 Contact
 
-Feel free to reach out if you have any questions, suggestions, or just want to connect!
+Have questions, suggestions, or want to collaborate? Reach out:
 
-- **Email:** [karuneshbansal84@gmail.com](karuneshbansal84@gmail.com)
-- **Phone:** +91 8295169318
-- **LinkedIn:** [linkedin.com/in/karunesh-bansal](https://www.linkedin.com/in/karunesh-bansal-780828380)
+- Email: [karuneshbansal84@gmail.com](mailto:karuneshbansal84@gmail.com)  
+- Phone: [+91 82951 69318](tel:+918295169318)  
+- LinkedIn: [Karunesh Bansal](https://www.linkedin.com/in/karunesh-bansal-780828380)
 
 I look forward to hearing from you!
 
