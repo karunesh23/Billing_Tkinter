@@ -19,7 +19,7 @@ It is designed to automate the manual bill calculation process for small shops a
 
 ## 📸 Screenshots
 
-![Billing Screen](screenshots/bill.png)
+![Billing Screen](screenshots/bill.PNG)
 *Main Billing Interface*
 
 
